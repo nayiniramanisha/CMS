@@ -1,0 +1,19 @@
+From bc5a59fe92427d9c127670c0f07a600177c336c5 Mon Sep 17 00:00:00 2001
+From: Amulya <amulyaeragani@gmail.com>
+Date: Tue, 5 Aug 2025 12:15:57 +0530
+Subject: [PATCH] commit
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index f5f9b3f..5879ee4 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1 @@
+-i am amulya my friend is rasna
++i am amulya my friend is prasanna(don't call me rasna)
+-- 
+2.47.1.windows.1
+
